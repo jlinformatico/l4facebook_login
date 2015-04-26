@@ -1,4 +1,5 @@
 /bootstrap/compiled.php
+<<<<<<< HEAD
 /vendor
 composer.phar
 composer.lock
@@ -6,3 +7,8 @@ composer.lock
 .env.php
 .DS_Store
 Thumbs.db
+=======
+.env.*.php
+.env.php
+.env
+>>>>>>> 561591e2058de267f84d8201908325d0f2e49ea2
